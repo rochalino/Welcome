@@ -1,7 +1,7 @@
 # Welcome #
 You're not welcome anymore! Stay away.
 ## You still not welcome #
-[my photo](/timg.jpg)
+![My photo](/timg.jpg)
 why you still reading, you're not invited.
 ## Why your are not invited
 1. I don't want. 
